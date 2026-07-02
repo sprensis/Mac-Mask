@@ -43,6 +43,8 @@ brew services start tor
 <img src="https://github.com/user-attachments/assets/f6ac1b9d-b4a4-4863-8356-27d4a80e2eaf" style="max-width:700px; height:auto;" />
 <img src="https://github.com/user-attachments/assets/9bdc097d-44c2-402e-b482-bc2246a4038c" style="max-width:700px; height:auto;" />
 
+Also in Telegram: <img width="500" height="670" alt="CleanShot 2026-07-02 at 18 45 47@2x" src="https://github.com/user-attachments/assets/f48239bc-42eb-40f6-964a-2892aad188de" />
+
 
 Verify Tor is running:
 ```bash
