@@ -38,6 +38,12 @@ Start Tor service (or run manually: tor):
 brew services start tor
 ```
 
+
+<img src="https://github.com/user-attachments/assets/cd0a9d6e-261f-408a-96b4-3043a858eb09" style="max-width:700px; height:auto;" />
+<img src="https://github.com/user-attachments/assets/f6ac1b9d-b4a4-4863-8356-27d4a80e2eaf" style="max-width:700px; height:auto;" />
+<img src="https://github.com/user-attachments/assets/9bdc097d-44c2-402e-b482-bc2246a4038c" style="max-width:700px; height:auto;" />
+
+
 Verify Tor is running:
 ```bash
 curl --socks5-hostname 127.0.0.1:9050 https://check.torproject.org/api/ip
